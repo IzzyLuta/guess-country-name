@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guess-country-name/static/css/main.fc4b5ab7.css",
+    "main.js": "/guess-country-name/static/js/main.97cd5b20.js",
+    "static/js/787.866d8d63.chunk.js": "/guess-country-name/static/js/787.866d8d63.chunk.js",
+    "index.html": "/guess-country-name/index.html",
+    "main.fc4b5ab7.css.map": "/guess-country-name/static/css/main.fc4b5ab7.css.map",
+    "main.97cd5b20.js.map": "/guess-country-name/static/js/main.97cd5b20.js.map",
+    "787.866d8d63.chunk.js.map": "/guess-country-name/static/js/787.866d8d63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc4b5ab7.css",
+    "static/js/main.97cd5b20.js"
+  ]
+}
